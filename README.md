@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tai</h1>
-<h3 align="center">A passionate SWE Engineer based in Canberra</h3>
+<h3 align="center">2nd Year Computer Science Student</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=taihadev&label=Profile%20views&color=0e75b6&style=flat" alt="taihadev" /> </p>
 
 - 📫 How to reach me **taihavn1101@gmail.com**
