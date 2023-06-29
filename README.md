@@ -4,8 +4,6 @@
 
 - 📫 How to reach me **taihavn1101@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/106oDUPPlV0GEK-0oDgbGHYWLt5YmTyAy/view?usp=sharing](https://drive.google.com/file/d/106oDUPPlV0GEK-0oDgbGHYWLt5YmTyAy/view?usp=sharing)
-
 
 [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=taidn2003)](https://github.com/KnlnKS/leetcode-stats)
 
