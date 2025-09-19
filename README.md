@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tai</h1>
-<h3 align="center">3rd Year Computer Science Student @ANU</h3>
+<h3 align="center">Final Year Computer Science Student @ANU</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=taihadev&label=Profile%20views&color=0e75b6&style=flat" alt="taihadev" /> </p>
 
 - 📫 How to reach me **taihavn1101@gmail.com**
